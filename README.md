@@ -1,5 +1,9 @@
 # grpc/grpc issue #24469
 
+Repository for https://github.com/grpc/grpc/issues/24469. This issue has been resolved, so this repository has been archived.
+
+---
+
 To trigger the error add a broken cert to the `ssl` folder and run `make` to start the server.
 Once it's running you can use either of the options below to trigger the client.
 
